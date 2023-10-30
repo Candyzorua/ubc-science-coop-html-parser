@@ -1,0 +1,84 @@
+html {
+    /* To make use of full height of page*/
+    min-height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(243, 243, 243, 0.876);
+    height: 100vh;
+}
+
+/* navbar */
+.nav-title {
+    font-family: 'Alata', sans-serif;
+    font-size: large;
+}
+
+/* left section */
+.input-header {
+    font-family: 'Lexend', sans-serif;
+    font-size: x-large;
+    padding: 2% 3%;
+}
+
+.btn {
+    font-family: 'Lexend', sans-serif;
+}
+
+.submit-button {
+    margin-left: 3%;
+    margin-top: 2%;
+    padding: 1% 5%;
+}
+
+.clear-button {
+    margin-left: 3%;
+    margin-top: 2%;
+    padding: 1% 5%;
+}
+
+.textarea {
+    font-family: 'Lexend', sans-serif;
+    line-height: 2.2;
+    margin-left: 3%;
+    padding: 3%;
+    width: 40vw;
+    height: 40vh;
+}
+
+.creator-message {
+    color: black;
+    font-family: 'Alata', sans-serif;
+    font-size: small;
+    padding-left: 3%;
+    padding-top: 5%;
+}
+
+.heart-icon {
+    color: rgb(232, 36, 36);
+}
+
+/* right section */
+.io-header {
+    font-family: 'Lexend', sans-serif;
+    font-size: x-large;
+    padding: 0.2% 3%;
+}
+
+#malaytext {
+    font-family: 'Lexend', sans-serif;
+    margin-left: 3%;
+    padding-top: 3%;
+}
+
+.output-malay-word {
+    font-size: medium;
+    color: rgb(9, 44, 44);
+    text-decoration: none;
+}
+
+.output-malay-word:hover {
+    color: rgb(48, 106, 106);
+    text-decoration: none;
+}
